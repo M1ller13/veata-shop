@@ -1,0 +1,121 @@
+{
+  "common": {
+    "search": "Поиск",
+    "login": "Войти",
+    "logout": "Выйти",
+    "register": "Регистрация",
+    "cart": "Корзина",
+    "profile": "Профиль",
+    "orders": "Заказы",
+    "settings": "Настройки",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "view": "Просмотр",
+    "add": "Добавить",
+    "remove": "Удалить",
+    "confirm": "Подтвердить",
+    "back": "Назад",
+    "next": "Далее",
+    "submit": "Отправить",
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успешно"
+  },
+  "nav": {
+    "home": "Главная",
+    "products": "Товары",
+    "categories": "Категории",
+    "about": "О нас",
+    "contact": "Контакты",
+    "admin": "Панель администратора"
+  },
+  "auth": {
+    "username": "Имя пользователя",
+    "password": "Пароль",
+    "email": "Электронная почта",
+    "forgotPassword": "Забыли пароль?",
+    "rememberMe": "Запомнить меня",
+    "noAccount": "Нет аккаунта?",
+    "hasAccount": "Уже есть аккаунт?"
+  },
+  "products": {
+    "name": "Название товара",
+    "description": "Описание",
+    "category": "Категория",
+    "price": "Цена",
+    "stock": "Наличие",
+    "unit": "Единица измерения",
+    "dimensions": "Размеры",
+    "weight": "Вес",
+    "material": "Материал",
+    "brand": "Бренд",
+    "specifications": "Характеристики",
+    "features": "Особенности",
+    "addToCart": "Добавить в корзину",
+    "outOfStock": "Нет в наличии",
+    "categories": {
+      "lumber": "Пиломатериалы",
+      "plywood": "Фанера",
+      "drywall": "Гипсокартон",
+      "insulation": "Утеплитель",
+      "paint": "Краски",
+      "tools": "Инструменты",
+      "hardware": "Фурнитура",
+      "electrical": "Электротовары",
+      "plumbing": "Сантехника"
+    }
+  },
+  "cart": {
+    "title": "Корзина",
+    "empty": "Ваша корзина пуста",
+    "subtotal": "Подытог",
+    "shipping": "Доставка",
+    "total": "Итого",
+    "checkout": "Оформить заказ",
+    "continueShopping": "Продолжить покупки",
+    "removeItem": "Удалить товар",
+    "updateQuantity": "Изменить количество"
+  },
+  "checkout": {
+    "title": "Оформление заказа",
+    "shippingInfo": "Информация о доставке",
+    "paymentMethod": "Способ оплаты",
+    "orderReview": "Проверка заказа",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "address": "Адрес",
+    "city": "Город",
+    "postalCode": "Почтовый индекс",
+    "country": "Страна",
+    "phone": "Телефон",
+    "email": "Электронная почта",
+    "paymentOptions": {
+      "card": "Банковская карта",
+      "cash": "Наличными при получении",
+      "invoice": "Счет (Email)"
+    }
+  },
+  "admin": {
+    "dashboard": "Панель управления",
+    "products": "Управление товарами",
+    "orders": "Управление заказами",
+    "users": "Управление пользователями",
+    "reports": "Отчеты",
+    "settings": "Настройки",
+    "stats": {
+      "totalSales": "Общая выручка",
+      "totalOrders": "Всего заказов",
+      "totalProducts": "Всего товаров",
+      "totalUsers": "Всего пользователей"
+    }
+  },
+  "footer": {
+    "company": "Компания",
+    "customer": "Служба поддержки",
+    "information": "Информация",
+    "social": "Мы в соцсетях",
+    "copyright": "Все права защищены"
+  }
+} 
