@@ -84,7 +84,7 @@ chmod 777 -R storage/
 ```nginx
 server {
     listen 80;
-    server_name your-domain.com;
+    server_name веата.com;
     root /path/to/veata-shop-php/public;
 
     index index.php;
@@ -166,4 +166,4 @@ mysqldump -u your_username -p veata_shop > "$BACKUP_DIR/veata_shop_$TIMESTAMP.sq
 ```
 
 ## Поддержка
-По всем вопросам обращайтесь: support@mosplitka.ru 
+По всем вопросам обращайтесь: ooo-veata@mail.ru
